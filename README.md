@@ -1,16 +1,34 @@
-## Hi there 👋
+## Ciao, sono Lorenzo 👋
 
-<!--
-**ItsLoree/ItsLoree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perito in Informatica e Telecomunicazioni e sviluppatore indipendente.
+Mi piace partire da un'idea e portarla davvero online: progetto l'architettura,
+configuro il server e gestisco il rilascio. Per il codice mi appoggio agli
+strumenti di AI, che uso come parte integrante del mio modo di lavorare.
 
-Here are some ideas to get you started:
+- 🔭 Sto lavorando su **Scenarium**, una web app che trasforma video lunghi in clip verticali → https://myscenarium.it
+- 🌱 Sto approfondendo deploy, automazione (CI/CD) e nuovi strumenti di AI per lo sviluppo
+- 💼 Aperto a opportunità di lavoro, collaborazioni e nuovi progetti
+- 🌐 Sito personale: https://rosaidev.com
+- 📫 Mi trovi a lorenzorosai@icloud.com
+- ⚡ Fun fact: ho fondato e venduto una piattaforma online ancora prima del diploma — e nello sport ho vinto un campionato italiano di calcio (Allievi Élite)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Progetti
+
+**Scenarium** — piattaforma web *attualmente online*
+Trasforma video lunghi in clip verticali con sottotitoli automatici.
+Full-stack (Flask/Python, PostgreSQL), login Google e deploy automatizzato su Linux con Nginx.
+🔗 https://myscenarium.it
+
+**ScampiaCity** — fondata nel 2021 e poi venduta
+Piattaforma online con una sua community e un'economia interna, su infrastruttura
+Linux/Java/MySQL. Avviata, fatta crescere e infine ceduta.
+
+**CorpseReborn** — plugin pubblicato
+Con pipeline CI/CD su GitHub Actions per build e rilascio automatici.
+🔗 https://github.com/ItsLoree/CorpseReborn
+
+### 🛠️ Tecnologie
+Python · Flask · Java · JavaScript · HTML/CSS · SQL · Git · Linux · Nginx
+
+### 📫 Contatti
+📧 lorenzorosai@icloud.com
